@@ -10,4 +10,4 @@ An individual project from the second year of study on the development of a desk
 - Java.sql
 
 ### Screens
-![phone](https://user-images.githubusercontent.com/63003336/213472691-b8122c66-2540-4ef0-9e73-66a5061aa122.jpg)
+![image](https://user-images.githubusercontent.com/63003336/213473175-c04f7273-5237-4c32-b5c0-6861bca59578.png)
